@@ -1,5 +1,10 @@
 package com.ygsoft.test;
 
+/**
+ * Added comment text by Jeff
+ * @author 1002000
+ *
+ */
 public class HelloWorld {
 	
 	public static void main(String ... v) {

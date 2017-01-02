@@ -1,5 +1,8 @@
 package com.ygsoft.test;
 
+/** 
+This file is edited on devFeature1 branch by Jeff
+**/
 public class HelloGit {
 	
 	public static void main(String ... v) {
